@@ -1,2 +1,2 @@
-# Web-Front End IADE 2025
-## Este é o meu repositório de códigos gerados durante o curso Web-Front End 2025 na IADE. 
+# Javascript webFrontEnd IADE 2025
+## This is my code repository during the posgraduate course in Web Front End, by IADE 2025. 
